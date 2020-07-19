@@ -9,5 +9,5 @@ updates:
     directory: "/BlazorServerGitHubActions" # Location of package manifests
     schedule:
       interval: "daily"
-      time: "6:00"
+      time: "06:00"
       timezone: "Africa/Johannesburg"
