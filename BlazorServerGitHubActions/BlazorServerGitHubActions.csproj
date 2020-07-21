@@ -8,7 +8,7 @@
     <PackageReference Include="jQuery.UI.Combined" Version="1.8.20.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.0-preview1-final" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="4.0.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.7.1" />
     <PackageReference Include="xunit" Version="1.9.1" />
   </ItemGroup>
 
